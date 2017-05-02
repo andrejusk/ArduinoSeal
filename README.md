@@ -1,5 +1,3 @@
 # ArduinoSeal
 
-when arduinos meet shitposts
-
-![shitpost](https://my.mixtape.moe/yjjomz.png)
+Morsecode translator and outputter for an Arduino Nano.
